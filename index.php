@@ -217,3 +217,6 @@ elseif (isset($_GET['catss']))
         </center>
 </body>
 </html>
+<script type="text/javascript">
+	console.log("NEVER MIND");
+</script>
